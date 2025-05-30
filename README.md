@@ -4,4 +4,4 @@ Le projet se décompose en 2 sous projets, l'un en Pyhon et l'autre en Java
 
 Le projet en Python permet de jouer au jeu à l'aide d'une interface graphique. Le nombre de robots ainsi que les caractéristiques du plateau sont modifiables dans le ficher 'plateau.py'
 
-Le projet en Java se concentre sur la résolution d'un plateau de Ricochet Robot. Différentes méthodes sont utilisées, comme un branch and bound pour trouver la solution optimale, ou un algorithme A*.
+Le projet en Java se concentre sur la résolution d'un plateau de Ricochet Robot. Différentes méthodes sont utilisées, comme un BFS pour trouver la solution optimale, ou un algorithme A*.
